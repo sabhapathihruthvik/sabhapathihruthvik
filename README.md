@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm HRUTHVIK SABHAPATHI</h1>
+<div align="center"><img src ="https://raw.githubusercontent.com/sabhapathihruthvik/sabhapathihruthvik/main/github-header-image.png"></div>
 <h3 align="center">A passionate Computer Science and Engineering fresher exploring the worlds of AI, ML, and App Development. I love solving real-world problems through creative coding and innovative projects. Always learning, always growing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhapathihruthvik&label=Profile%20views&color=0e75b6&style=flat" alt="sabhapathihruthvik" /> </p>
