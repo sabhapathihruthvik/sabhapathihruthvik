@@ -103,5 +103,9 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabhapathihruthvik&show_icons=true&locale=en&layout=compact" alt="sabhapathihruthvik" /></p>
+<h3 align="center">TOP LANGUAGES STATS</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabhapathihruthvik&show_icons=true&locale=en&layout=compact" alt="sabhapathihruthvik" width="600" height="300" />
+</p>
+
 
