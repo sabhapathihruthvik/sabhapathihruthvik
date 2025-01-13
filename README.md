@@ -27,8 +27,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 60px;" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" style="margin: 60px;" />
+</a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" style="margin: 60px;" />
+</a>
 </p>
-
+https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg
 <h3 align="left">FRAMEWORKS & LIBRARIES</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -61,6 +67,17 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 60px;" />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" style="margin: 60px;" />
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" style="margin: 60px;" />
+</a>
+
+<a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" style="margin: 60px;" />
+</a>
 </p>
 
 <h3 align="left">DATABASES</h3>
