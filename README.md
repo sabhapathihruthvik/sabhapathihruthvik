@@ -34,7 +34,6 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" style="margin: 60px;" />
 </a>
 </p>
-https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg
 <h3 align="left">FRAMEWORKS & LIBRARIES</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
